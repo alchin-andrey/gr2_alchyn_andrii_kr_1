@@ -217,6 +217,11 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 151.19%;
     /* or 27px */
     color: #2A292E;
+    margin-bottom: 10px;
+}
+
+.s1__text-1 span {
+    display: block;
 }
 
 .s1__text-2 {
@@ -241,19 +246,22 @@ h1, h2, h3, h4, h5, h6 {
     color: #2A292E;
     text-shadow: 0px 2.58696px 5.17391px rgba(0, 0, 0, 0.1);
     text-transform: uppercase;
+    display: block;
 }
 
 .s1__text-wrapper {
     position: absolute;
-    width: 50%;
-    top: 13px;
-    padding: 0 10px;
+    width: 70%;
+    bottom: 20%;
+    left: 9.5%;
+    /* top: 165px;
+    left: 120px; */
 }
 
-.s1__text-wrapper>div {
-    padding: 10px;
+/* .s1__text-wrapper>div {
+    padding: 0px;
     background: red;
-}
+} */
 
 /* ___________wrapper__________ */
 
