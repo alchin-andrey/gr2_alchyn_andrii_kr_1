@@ -123,7 +123,6 @@ h1, h2, h3, h4, h5, h6 {
 .header {
     width: 100%;
     background: rgba(42, 41, 46, 0.8);
-    /* opacity: 0.8; */
     box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12);
     align-items: center;
     position: absolute;
@@ -308,7 +307,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     font-size: 18px;
     line-height: 151.19%;
-    /* or 27px */
     color: #2A292E;
     margin-bottom: 10px;
 }
@@ -349,7 +347,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     font-size: 40px;
     line-height: 149%;
-    /* or 60px */
     color: #2A292E;
     text-shadow: 0px 2.58696px 5.17391px rgba(0, 0, 0, 0.1);
     text-transform: uppercase;
@@ -379,7 +376,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     font-size: 25px;
     line-height: 149%;
-    /* or 37px */
     color: #2A292E;
     text-shadow: 0px 2.58696px 5.17391px rgba(0, 0, 0, 0.1);
     text-transform: uppercase;
@@ -485,7 +481,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-style: normal;
     line-height: 149%;
-    /* or 76px */
     letter-spacing: 0.11em;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -497,7 +492,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-style: normal;
     line-height: 149%;
-    /* or 76px */
     letter-spacing: 0.11em;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -655,7 +649,6 @@ h1, h2, h3, h4, h5, h6 {
     font-style: normal;
     font-size: 51px;
     line-height: 149%;
-    /* or 76px */
     letter-spacing: 0.11em;
     text-transform: uppercase;
     color: #2A292E;
@@ -711,7 +704,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     font-size: 18px;
     line-height: 164.5%;
-    /* or 30px */
     color: #2A292E;
 }
 
@@ -721,7 +713,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
-    /* or 25px */
     color: #2A292E;
 }
 
@@ -775,7 +766,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-size: 18px;
     line-height: 100%;
-    /* or 18px */
     text-align: center;
     color: #FFFFFF;
     margin-top: 5px;
@@ -812,7 +802,6 @@ h1, h2, h3, h4, h5, h6 {
     font-style: normal;
     font-size: 51px;
     line-height: 149%;
-    /* or 76px */
     letter-spacing: 0.11em;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -907,7 +896,6 @@ h1, h2, h3, h4, h5, h6 {
     font-style: normal;
     font-size: 51px;
     line-height: 149%;
-    /* identical to box height, or 76px */
     letter-spacing: 0.11em;
     text-transform: uppercase;
     color: #2A292E;
@@ -954,7 +942,6 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-
 .form-name input {
     background: #FFFFFF;
     border: 1px solid #C5D3DB;
@@ -963,7 +950,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-size: 16px;
     line-height: 149%;
-    /* or 24px */
     width: 230px;
     height: 40px;
     margin-right: 30px;
@@ -991,7 +977,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-size: 16px;
     line-height: 149%;
-    /* or 24px */
     width: 230px;
     height: 40px;
     padding-left: 10px;
@@ -1034,7 +1019,6 @@ textarea {
     font-weight: 500;
     font-size: 18px;
     line-height: 149%;
-    /* or 27px */
     color: #2A292E;
     margin-top: 30px;
 }
