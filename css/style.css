@@ -469,15 +469,38 @@ h1, h2, h3, h4, h5, h6 {
 .sec-2__title::after {
     content: url(../img/icon/svg/s2_arrow-right.svg);
     position: absolute;
-    right: -40px;
+    right: 0px;
+    animation-name: arrow-right;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+
+@keyframes arrow-right {
+    0% {
+        right: -40px;
+    }
 }
 
 @media (max-width: 925px) {
     .sec-2__title::after {
         left: 50%;
         right: 50%;
-        bottom: 40px;
+        bottom: 70px;
         transform: rotate(90deg);
+        animation-name: arrow-bottom;
+        animation-duration: 1s;
+        animation-timing-function: ease;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+    }
+}
+
+@keyframes arrow-bottom {
+    0% {
+        bottom: 30px;
     }
 }
 
