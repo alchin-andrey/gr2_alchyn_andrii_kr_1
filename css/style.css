@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .home a::after {
-    content: url(../img/icon/svg/home.png);
+    content: url(../img/icon/svg/home.svg);
     position: absolute;
     left: -48px;
 }
